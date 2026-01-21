@@ -76,7 +76,7 @@ These steps ensured the dataset was reliable and suitable for statistical analys
 
 Correlation analysis was conducted to quantify the relationships between study behaviors and student scores.
 
-![Correlation Heatmap](Pictures/screenshots/_heatmap.png)
+![Heatmap](Pictures/screenshots/Heatmap.png)
 
 **Methodology:**
 - Pairwise correlations were calculated using Excel’s `CORREL()` function  
