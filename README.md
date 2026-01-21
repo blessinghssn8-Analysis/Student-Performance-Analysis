@@ -144,6 +144,7 @@ The Excel dashboard consolidates key findings into a single, interactive interfa
 
 - **Actual vs Predicted Score Visualization**  
   Compares observed student scores with regression-based predictions.
+  <img width="417" height="412" alt="Image" src="https://github.com/user-attachments/assets/0868e73f-c6dc-4111-a44b-3f922f966c07" />
 
 ### Design Considerations
 - Clean, uncluttered layout for readability  
